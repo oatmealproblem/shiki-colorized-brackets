@@ -1,3 +1,7 @@
+# ATTENTION
+
+This plugin is now officially part of Shiki, via [@shikijs/colorized-brackets](https://shiki.style/packages/colorized-brackets). All future development will happen there.
+
 # shiki-colorized-brackets
 
 VSCode-style colorized brackets for [Shiki](https://shiki.style)
